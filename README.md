@@ -1,4 +1,4 @@
-# Sample For Car License Recognization
+# Sample For Brazilian Car License Recognization
  - [Description](#description)
  - [Prerequisition](#prerequisition)
  - [Download](#download)
